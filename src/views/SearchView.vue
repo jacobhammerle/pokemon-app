@@ -17,7 +17,7 @@
 <script>
 import Card from '@/components/Card.vue'
 import PokeAPI from "pokeapi-typescript";
-import AllPokemon from "../data/pokemonIdAndName.json";
+import AllPokemon from "@/data/pokemonIdAndName.json";
 
 export default {
     name: 'SearchView',
